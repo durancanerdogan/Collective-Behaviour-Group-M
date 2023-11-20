@@ -1,0 +1,16 @@
+Mathematics-Education-Game-Theory-Report/
+|-- Report/
+|   |-- abstract.md
+|   |-- introduction.md
+|   |-- methods.md
+|   |-- computational_modeling_example.md
+|   |-- assessment_methods.md
+|   |-- results.md
+|   |-- discussion.md
+|   |-- conclusion.md
+|   |-- references.md
+|
+|-- Images/
+    |-- figure1.png
+    |-- figure2.png
+    |-- figure3.png
