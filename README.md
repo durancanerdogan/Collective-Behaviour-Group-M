@@ -24,3 +24,6 @@ Our project focuses on the integration of game theory principles into mathematic
 ## Progress Tracking
 
 Throughout the course, we will use this repository to track our progress. Regular updates will be made to the README.md file, summarizing achievements, challenges, and plans for the upcoming weeks.
+
+![image](https://github.com/durancanerdogan/Collective-Behaviour-Group-M/assets/151257021/64d4b3cc-370f-410a-9b91-dbb7e7253ddc)
+
