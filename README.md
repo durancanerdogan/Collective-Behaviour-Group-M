@@ -19,12 +19,7 @@ Our project focuses on the integration of game theory principles into mathematic
 ### Milestone 3
 🎯 Finalize the comprehensive report. Include visuals, examples, and address any challenges encountered during the implementation. Conduct thorough testing of the educational methods proposed in the report and document the outcomes.
 
-## Repository Structure
 
-- **/docs:** Contains project-related documents, including the report drafts and final versions.
-- **/code:** Stores any code snippets or computational models used during the implementation.
-- **/images:** Houses visual assets, graphs, and images used in the report.
-- **/data:** If applicable, store any datasets or supplementary data used in the project.
 
 ## Progress Tracking
 
