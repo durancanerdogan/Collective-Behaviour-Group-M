@@ -19,11 +19,20 @@ Our project focuses on the integration of game theory principles into mathematic
 ### Milestone 3
 🎯 Finalize the comprehensive report. Include visuals, examples, and address any challenges encountered during the implementation. Conduct thorough testing of the educational methods proposed in the report and document the outcomes.
 
-
-
 ## Progress Tracking
 
 Throughout the course, we will use this repository to track our progress. Regular updates will be made to the README.md file, summarizing achievements, challenges, and plans for the upcoming weeks.
 
+##Virtual Traffic Simulation
+Overview
+Welcome to Virtual Traffic Simulation! This project offers an automated experience where virtual cars move autonomously, creating dynamic traffic patterns on the screen. Sit back, relax, and enjoy the unique and sometimes unpredictable journey of virtual traffic.
+
+##How to Play
+The cars move automatically, requiring no player controls.
+If the cars don't start initially, press the green flag again to initiate the simulation.
+##Have Fun!
+Experience the captivating visual spectacle of Virtual Traffic Simulation. Press the green flag and enjoy the virtual traffic unfold its patterns.
+
+##Screenshot
 ![image](https://github.com/durancanerdogan/Collective-Behaviour-Group-M/assets/151257021/64d4b3cc-370f-410a-9b91-dbb7e7253ddc)
 
