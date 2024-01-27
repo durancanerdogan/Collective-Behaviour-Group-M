@@ -30,7 +30,7 @@ Welcome to Virtual Traffic Simulation! This project offers an automated experien
 
 ## How to Play
 - Enter the scratch and upload the file given by "load from your computer" section
-- ![image](https://github.com/durancanerdogan/Collective-Behaviour-Group-M/assets/151257021/b70402ea-f9ad-4800-8ef6-7a8a7e957df8)
+  ![image](https://github.com/durancanerdogan/Collective-Behaviour-Group-M/assets/151257021/b70402ea-f9ad-4800-8ef6-7a8a7e957df8)
 - The cars move automatically, requiring no player controls.
 - If the cars don't start initially, press the green flag again to initiate the simulation.
 
