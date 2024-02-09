@@ -41,3 +41,7 @@ Experience the captivating visual spectacle of Virtual Traffic Simulation. Press
 ## Screenshot
 ![image](https://github.com/durancanerdogan/Collective-Behaviour-Group-M/assets/151257021/64d4b3cc-370f-410a-9b91-dbb7e7253ddc)
 
+## Gameplay
+![İsimsiz video ‐ Clipchamp ile yapıldı](https://github.com/durancanerdogan/Collective-Behaviour-Group-M/assets/151257021/4673cfbd-a3b9-4790-9f6e-631bd495c735)
+
+
