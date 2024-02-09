@@ -44,6 +44,9 @@ Experience the captivating visual spectacle of Virtual Traffic Simulation. Press
 ## Gameplay
 Disclaimer: Game gets bugged when opened in big picture mod
 
-Cars detect road sign and use their blinkers to turn ![İsimsiz video ‐ Clipchamp ile yapıldı](https://github.com/durancanerdogan/Collective-Behaviour-Group-M/assets/151257021/4673cfbd-a3b9-4790-9f6e-631bd495c735) Cars detect eachother and get in reaction with traffic lights![İsimsiz video ‐ Clipchamp ile yapıldı (1)](https://github.com/durancanerdogan/Collective-Behaviour-Group-M/assets/151257021/03672c0f-a5c9-4233-af68-a4ba931b2337)
+Cars detect road sign and use their blinkers to turn 
+![İsimsiz video ‐ Clipchamp ile yapıldı](https://github.com/durancanerdogan/Collective-Behaviour-Group-M/assets/151257021/4673cfbd-a3b9-4790-9f6e-631bd495c735) 
+Cars detect eachother and get in reaction with traffic lights
+![İsimsiz video ‐ Clipchamp ile yapıldı (1)](https://github.com/durancanerdogan/Collective-Behaviour-Group-M/assets/151257021/03672c0f-a5c9-4233-af68-a4ba931b2337)
 
 
